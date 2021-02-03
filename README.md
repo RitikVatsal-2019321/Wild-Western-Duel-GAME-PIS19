@@ -4,6 +4,6 @@ A motion sensing game with multiplayer and single player game modes. Experience 
 Watch this project on YouTube! https://youtu.be/1W-POF_qOKw
 
 The Team-
-Ritik Vatsa
-Shrey Marwaha
+Ritik Vatsal | 
+Shrey Marwaha | 
 Arnav Gupta
